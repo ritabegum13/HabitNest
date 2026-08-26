@@ -113,7 +113,7 @@ HabitNest/
 ├── register.php
 ├── update_status.php
 └── view_habits.php
-🗄️ Database
+##🗄️ Database
 
 HabitNest uses MySQL to store application data.
 
