@@ -88,7 +88,7 @@ The dashboard displays:
 
 ## 📁 Project Structure
 
-```text
+
 HabitNest/
 │
 ├── css/
