@@ -82,7 +82,6 @@ The dashboard displays:
 | **PHP** | Backend logic and server-side processing |
 | **MySQL** | Database management |
 | **XAMPP** | Local development server |
-| **JavaScript** | Client-side functionality |
 
 ---
 
