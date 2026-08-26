@@ -114,9 +114,8 @@ HabitNest/
 ├── update_status.php
 └── view_habits.php
 
-
-
 ---
+
 ## 🗄️ Database
 HabitNest uses MySQL to store application data.
 
@@ -131,6 +130,7 @@ The database connection is handled through:
 includes/db.php
 
 ---
+
 ## ⚙️ Installation and Setup
 
 1. Install XAMPP
