@@ -113,3 +113,123 @@ HabitNest/
 ├── register.php
 ├── update_status.php
 └── view_habits.php
+🗄️ Database
+
+HabitNest uses MySQL to store application data.
+
+The database stores information related to:
+
+Users
+Habits
+Habit completion status
+
+The database connection is handled through:
+
+includes/db.php
+
+⚙️ Installation and Setup
+1. Install XAMPP
+
+Install XAMPP and start:
+
+Apache
+MySQL
+2. Copy the Project
+
+Place the HabitNest folder inside the XAMPP htdocs directory.
+
+Example:
+
+E:\xampp\htdocs\HabitNest
+3. Create the Database
+
+Open:
+
+http://localhost/phpmyadmin
+
+Create the required HabitNest database and tables.
+
+4. Configure Database Connection
+
+Open:
+
+includes/db.php
+
+Configure the database connection according to your local MySQL settings.
+
+5. Run the Project
+
+Open your browser and visit:
+
+http://localhost/HabitNest/
+🔄 Application Workflow
+Registration
+     ↓
+Login
+     ↓
+Dashboard
+     ↓
+Add Habit
+     ↓
+View Habits
+     ↓
+Update Status
+     ↓
+Edit / Delete Habit
+     ↓
+Track Progress
+     ↓
+Logout
+📊 Dashboard
+
+The dashboard provides an overview of the user's habits.
+
+It displays:
+
+Total Habits
+Completed Habits
+Pending Habits
+Overall Progress
+
+The progress percentage is calculated based on completed habits.
+
+🎨 Design
+
+HabitNest uses a clean green-based visual theme representing growth and consistency.
+
+The interface includes:
+
+Green color palette
+Rounded cards
+Navigation bar
+Hover effects
+Animated cards
+Animated progress bar
+Responsive layout
+
+The main styling is contained in:
+
+css/style.css
+🚀 Future Improvements
+
+Possible future improvements include:
+
+Habit streak tracking
+Calendar-based habit tracking
+Reminder notifications
+Habit categories
+Daily/weekly/monthly statistics
+Progress charts
+Dark mode
+Email notifications
+Mobile application version
+
+👩‍💻 Developer
+
+RB
+
+HabitNest was developed as an academic web development project.
+
+📄 License
+
+This project is developed for educational and academic purposes.
