@@ -114,6 +114,8 @@ HabitNest/
 ├── update_status.php
 └── view_habits.php
 
+
+
 ---
 ## 🗄️ Database
 HabitNest uses MySQL to store application data.
