@@ -86,9 +86,9 @@ The dashboard displays:
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
-
+```
 HabitNest/
 │
 ├── css/
@@ -113,6 +113,7 @@ HabitNest/
 ├── register.php
 ├── update_status.php
 └── view_habits.php
+```
 
 ---
 
