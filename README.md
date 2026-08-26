@@ -113,6 +113,8 @@ HabitNest/
 ├── register.php
 ├── update_status.php
 └── view_habits.php
+
+---
 ## 🗄️ Database
 HabitNest uses MySQL to store application data.
 
@@ -126,7 +128,9 @@ The database connection is handled through:
 
 includes/db.php
 
-⚙️ Installation and Setup
+---
+## ⚙️ Installation and Setup
+
 1. Install XAMPP
 
 Install XAMPP and start:
@@ -161,7 +165,11 @@ Configure the database connection according to your local MySQL settings.
 Open your browser and visit:
 
 http://localhost/HabitNest/
-🔄 Application Workflow
+
+---
+
+## 🔄 Application Workflow
+
 Registration
      ↓
 Login
@@ -179,7 +187,11 @@ Edit / Delete Habit
 Track Progress
      ↓
 Logout
-📊 Dashboard
+
+---
+
+## 📊 Dashboard
+
 
 The dashboard provides an overview of the user's habits.
 
@@ -192,7 +204,9 @@ Overall Progress
 
 The progress percentage is calculated based on completed habits.
 
-🎨 Design
+---
+
+## 🎨 Design
 
 HabitNest uses a clean green-based visual theme representing growth and consistency.
 
@@ -209,7 +223,10 @@ Responsive layout
 The main styling is contained in:
 
 css/style.css
-🚀 Future Improvements
+
+---
+
+## 🚀 Future Improvements
 
 Possible future improvements include:
 
@@ -223,12 +240,16 @@ Dark mode
 Email notifications
 Mobile application version
 
-👩‍💻 Developer
+---
+
+## 👩‍💻 Developer
 
 RB
 
 HabitNest was developed as an academic web development project.
 
-📄 License
+---
+
+## 📄 License
 
 This project is developed for educational and academic purposes.
