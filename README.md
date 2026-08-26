@@ -246,7 +246,7 @@ Mobile application version
 
 ## 👩‍💻 Developer
 
-RB
+Rita Begum
 
 HabitNest was developed as an academic web development project.
 
